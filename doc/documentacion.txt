@@ -1,0 +1,6 @@
+A rellenar con el funcionamiento de los comandos básicos y la instalación de los programas MongoDB (y su Compass) y Visual Studio Code.
+
+El comando load de mongosh se usa de la siguiente forma
+> load("documentoejemplo.js")
+
+Para que funcione, la shell de mongo debe iniciarse en el mismo directorio en el que se encuentre el archivo JavaScript.

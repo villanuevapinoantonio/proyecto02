@@ -1,0 +1,7 @@
+db.col01.insertOne ({nombre:"Luis", edad:18})
+db.col01.insertOne ({nombre:"Ana", edad:19})
+db.col01.insertOne ({nombre:"Pedro", edad:20})
+db.col01.insertOne ({nombre:"Mar", edad:22})
+db.col01.insertOne ({nombre:"Javier", edad:23})
+db.col01.insertOne ({nombre:"Manuel", edad:25})
+db.col01.insertOne ({nombre:"Rosa", edad:27})
